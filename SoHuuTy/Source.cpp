@@ -3,6 +3,7 @@ using namespace std;
 int UCLN(int a, int b) {
 	a = abs(a);
 	b = abs(b);
+	//ádasadsdasda
 	if (a == 0 && b != 0) {
 		return 0;
 	}
